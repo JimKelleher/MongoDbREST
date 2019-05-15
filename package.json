@@ -1,0 +1,25 @@
+{
+  "id": "artistrest",
+  "version": "1.0.0",
+  "description": "API provides REST access from its Heroku hosting site for the MongoDB Musical Artist database, hosted on mLab.com.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jim Kelleher",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chalk": "^2.4.2",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mongoose": "^5.5.4",
+    "morgan": "^1.9.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/artistrest.git"
+  }
+}
