@@ -1,0 +1,39 @@
+
+cd C:\a_dev\NodeJS\artistrest\artistrest
+
+var port = process.env.PORT || 3000;
+
+------------------------------
+package.json
+
+  "scripts": {
+    "start": "node server.js"
+  },
+
+------------------------------
+
+command>node server.js
+
+compile output:
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+C:\a_dev\NodeJS\artistrest\artistrest>node server.js
+
+> @1.0.0 start C:\a_dev\NodeJS\artistrest\artistrest
+> node server.js
+
+the server/replset/mongos/db options are deprecated, all their options are supported at the top level of the options object 
+         o
+         o
+         o
+(node:14624) DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. 
+} to MongoClient.connect.
+
+Server is running on 3000 port.
+
+Mongoose default connection is open to  mongodb://jim_kelleher:medford2517@ds147446.mlab.com:47446/artist
+(node:14624) DeprecationWarning: collection.ensureIndex is deprecated. Use createIndexes instead.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+node.js has autostarted the application
+
