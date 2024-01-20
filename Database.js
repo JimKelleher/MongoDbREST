@@ -8,7 +8,7 @@ var chalk = require('chalk');
 
 //var dbURL = 'https://mongodbrest.adaptable.app/artist';
 var dbURL = process.env.DATABASE_URL;
-//var dbURL = 'mongodb+srv://mongodbrest-main-db-09a2d3f25de:Tyqt3Wk3XVJG1xhk31GDqNAbet7Q6Q@prod-us-central1-3.yr9so.mongodb.net/mongodbrest-main-db-09a2d3f25de/artist';
+////var dbURL = 'mongodb+srv://mongodbrest-main-db-09a2d3f25de:Tyqt3Wk3XVJG1xhk31GDqNAbet7Q6Q@prod-us-central1-3.yr9so.mongodb.net/mongodbrest-main-db-09a2d3f25de/artist';
 
 require('dotenv').config();
 console.log(process.env.DATABASE_URL);
