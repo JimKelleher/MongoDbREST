@@ -9,6 +9,8 @@ var chalk = require('chalk');
 //var dbURL = 'https://mongodbrest.adaptable.app/artist';
 var dbURL = process.env.DATABASE_URL;
 
+console.log(process.env.DATABASE_URL);
+
 var connected = chalk.bold.cyan;
 var error = chalk.bold.yellow;
 var disconnected = chalk.bold.red;
