@@ -6,8 +6,7 @@ var mongoose = require('mongoose');
 // Module to give colors to console text:
 var chalk = require('chalk');
 
-
-var dbURL = 'mongodb://jim_kelleher:medford2517@ds147446.mlab.com:47446/artist';
+var dbURL = 'https://mongodbrest.adaptable.app/artist';
 
 var connected = chalk.bold.cyan;
 var error = chalk.bold.yellow;
