@@ -3,7 +3,7 @@
       "id":"ABBA",
       "decade":1970,
       "genre":"POP",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/ABBA.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/ABBA.jpg"
    },
    {
       "id":"Adele",
@@ -21,7 +21,7 @@
       "id":"Bob Marley",
       "decade":1970,
       "genre":"REGGAE",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/BobMarley.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/BobMarley.jpg"
    },
    {
       "id":"Bobby Darin",
@@ -33,7 +33,7 @@
       "id":"Boz Scaggs",
       "decade":1970,
       "genre":"ROCK",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/BozScaggs.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/BozScaggs.jpg"
    },
    {
       "id":"Buddy Holly",
@@ -45,7 +45,7 @@
       "id":"Coldplay",
       "decade":2000,
       "genre":"ROCK",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/Coldplay.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/Coldplay.jpg"
    },
    {
       "id":"Collective Soul",
@@ -57,13 +57,13 @@
       "id":"Delerium",
       "decade":1980,
       "genre":"CHILL",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/Delerium.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/Delerium.jpg"
    },
    {
       "id":"Frank Sinatra",
       "decade":1940,
       "genre":"CLASSIC",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/FrankSinatra.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/FrankSinatra.jpg"
    },
    {
       "id":"Henry Mancini",
@@ -75,7 +75,7 @@
       "id":"Jem",
       "decade":2000,
       "genre":"POP",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/Jem.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/Jem.jpg"
    },
    {
       "id":"Jimmy Webb",
@@ -99,25 +99,25 @@
       "id":"Kris Kristofferson",
       "decade":1970,
       "genre":"COUNTRY",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/KrisKristofferson.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/KrisKristofferson.jpg"
    },
    {
       "id":"Little Richard",
       "decade":1950,
       "genre":"SOUL",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/LittleRichard.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/LittleRichard.jpg"
    },
    {
       "id":"Lyle Lovett",
       "decade":1980,
       "genre":"COUNTRY",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/LyleLovett.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/LyleLovett.jpg"
    },
    {
       "id":"No Doubt",
       "decade":1990,
       "genre":"ROCK",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/NoDoubt.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/NoDoubt.jpg"
    },
    {
       "id":"Sarah Brightman",
@@ -129,13 +129,13 @@
       "id":"Seal",
       "decade":1990,
       "genre":"POP",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/Seal.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/Seal.jpg"
    },
    {
       "id":"Sly and the Family Stone",
       "decade":1960,
       "genre":"SOUL",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/SlyAndTheFamilyStone.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/SlyAndTheFamilyStone.jpg"
    },
    {
       "id":"The B-52's",
@@ -147,7 +147,7 @@
       "id":"The Cardigans",
       "decade":1990,
       "genre":"CHILL",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/TheCardigans.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/TheCardigans.jpg"
    },
    {
       "id":"The Pretenders",
@@ -159,13 +159,13 @@
       "id":"The Who",
       "decade":1960,
       "genre":"ROCK",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/TheWho.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/TheWho.jpg"
    },
    {
       "id":"Tom Jones",
       "decade":1960,
       "genre":"POP",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/TomJones.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/TomJones.jpg"
    },
    {
       "id":"Tycho",
@@ -183,6 +183,6 @@
       "id":"Ziggy Marley",
       "decade":2000,
       "genre":"REGGAE",
-      "image":"https://www.workingweb.info/database/images/artistfullsize/ZiggyMarley.jpg"
+      "image":"https://www.workingweb.info/database/images/artist/ZiggyMarley.jpg"
    }
 ]
